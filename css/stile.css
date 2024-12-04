@@ -1,5 +1,13 @@
+@font-face {
+    font-family:'custom';
+    src: url('../start-20220401T085759Z-001/start/assets/start/fa-regular-400.woff2');
+    
+}
+* {
+    font-family: 'custom';
+}
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    
     
 }
 #et1{
@@ -176,5 +184,5 @@ footer hr {
 .box6 p{
     color: white;
     text-align: center;
-
+    
 }
